@@ -44,6 +44,10 @@ body {
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+.kimi-and-max-photo[hidden],
+.kimi-and-max[hidden] {
+    display: none;
+}
     justify-content: center;
     align-items: center;
 }
